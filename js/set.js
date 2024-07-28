@@ -116,7 +116,8 @@ function setBgImgInit() {
             pictures[7] = './img/background8.webp';
             pictures[8] = './img/background9.webp';
             pictures[9] = './img/background10.webp';
-            var rd = Math.floor(Math.random() * 10);
+            pictures[10] = './img/background11.webp';
+            var rd = Math.floor(Math.random() * 11);
             $('#bg').attr('src', pictures[rd]) //随机默认壁纸
             break;
         case "2":
@@ -153,7 +154,8 @@ $(document).ready(function () {
             pictures[7] = './img/background8.webp';
             pictures[8] = './img/background9.webp';
             pictures[9] = './img/background10.webp';
-            var rd = Math.floor(Math.random() * 10);
+            pictures[9] = './img/background11.webp';
+            var rd = Math.floor(Math.random() * 11  );
             $('#bg').attr('src', pictures[rd]) //随机默认壁纸
             iziToast.show({
                 icon: "fa-solid fa-image",
