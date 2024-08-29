@@ -5,7 +5,7 @@
     "author": "SCFC",
     "logo_img": "./img/icon/logo.png",
     "logo_text_1": "雾",
-    "logo_text_2": ".top",
+    "logo_text_2": "top",
     "des_title": [
         "Hello World !",
         "一个建立于 21 世纪的小站，存活于互联网的边缘"
@@ -21,14 +21,14 @@
     "twitter": "iimmsyy",
     "weather_api": "https://api.oioweb.cn/api/weather/GetWeather",
     "link_1": [
-        "https://www.scfc.cloudns.ch/blog",
+        "https://blog.雾.top",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://music.雾.top",
         "fa-solid fa-cloud",
-        "网盘"
+        "图床"
     ],
     "link_3": [
         "https://scfc.cloudns.ch/music",
@@ -36,19 +36,19 @@
         "音乐"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
+        "https://blog.雾.us.kg",
         "fa-solid fa-compass",
-        "起始页"
+        "博客备用站"
     ],
     "link_5": [
-        "https://scfc.cloudns.ch/ss",
+        "https://nav.雾.top",
         "fa-solid fa-book-bookmark",
-        "网址集"
+        "导航页"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "https://whateat.雾.top",
         "fa-solid fa-flask",
-        "实验室"
+        "今天吃什么"
     ],
     "wallpaper_api": [
         ["BING随机", "https://bing.img.run/rand_uhd.php"],
