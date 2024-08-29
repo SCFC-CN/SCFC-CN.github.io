@@ -1,11 +1,11 @@
 {
     "title": "S.C.F.Cの主页",
     "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
+    "keywords": "SCFC,个人主页",
+    "author": "SCFC",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
-    "logo_text_2": "top",
+    "logo_text_1": "雾",
+    "logo_text_2": ".top",
     "des_title": [
         "Hello World !",
         "一个建立于 21 世纪的小站，存活于互联网的边缘"
@@ -51,18 +51,9 @@
         "实验室"
     ],
     "wallpaper_api": [
-        [
-            "每日一图",
-            "https://api.vvhan.com/api/wallpaper/views"
-        ],
-        [
-            "随机风景",
-            "https://api.ixiaowai.cn/gqapi/gqapi.php"
-        ],
-        [
-            "随机动漫",
-            "https://api.ixiaowai.cn/api/api.php"
-        ]
+        ["BING随机", "https://bing.img.run/rand_uhd.php"],
+        ["动漫随机", "https://api.imlazy.ink/img"],
+        ["色图随机", "https://image.anosu.top/pixiv/?r18=2&db=0&size=original"]
     ],
     "Copyright_year": "2024",
     "Copyright_text": "S.C.F.C"
