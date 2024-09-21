@@ -14,7 +14,7 @@ var type = "playlist"; //song: 单曲; playlist: 歌单; album: 唱片
 var id = "7261730449"; //封面 ID / 单曲 ID / 歌单 ID
 
 $.ajax({
-    url: "https://api-meting.imsyy.top/api?server=" + server + "&type=" + type + "&id=" + id,
+    url: "https://meting.jinghuashang.cn/api?server=" + server + "&type=" + type + "&id=" + id,
     type: "GET",
     dataType: "JSON",
     success: function (data) {

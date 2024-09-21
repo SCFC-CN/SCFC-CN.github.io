@@ -1,9 +1,9 @@
 {
-    "title": "S.C.F.Cの主页",
+    "title": "S.C.F.C.の主页",
     "description": "一个默默无闻的主页",
-    "keywords": "SCFC,个人主页",
+    "keywords": "SCFC,个人主页,S.C.F.C.の主页,S.C.F.C.",
     "author": "SCFC",
-    "logo_img": "./img/icon/logo.png",
+    "logo_img": "https://pan.xn--0p5a.top/view.php/4163f35dd41812786b121c49d6a583e8.png",
     "logo_text_1": "雾",
     "logo_text_2": "top",
     "des_title": [
@@ -16,9 +16,7 @@
     ],
     "github": "SCFC-CN",
     "qq": "2907713872",
-    "email": "2907713872@qq.com",
-    "telegram": "bottom_user",
-    "twitter": "iimmsyy",
+    "email": "vip@雾.top",
     "weather_api": "https://api.oioweb.cn/api/weather/GetWeather",
     "link_1": [
         "https://blog.雾.top",
@@ -26,12 +24,12 @@
         "博客"
     ],
     "link_2": [
-        "https://music.雾.top",
+        "https://pan.雾.top",
         "fa-solid fa-cloud",
-        "图床"
+        "网盘"
     ],
     "link_3": [
-        "https://scfc.cloudns.ch/music",
+        "https://music.雾.top",
         "fa-solid fa-music",
         "音乐"
     ],
@@ -56,5 +54,5 @@
         ["色图随机", "https://image.anosu.top/pixiv/?r18=2&db=0&size=original"]
     ],
     "Copyright_year": "2024",
-    "Copyright_text": "S.C.F.C"
+    "Copyright_text": "S.C.F.C."
 }
